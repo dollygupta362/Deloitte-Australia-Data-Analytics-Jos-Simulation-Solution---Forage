@@ -92,7 +92,7 @@ By completing these tasks, I demonstrated skills in **Tableau dashboarding**, **
 
 👤 **Dolly Gupta**  
 📍 Data Science & Analytics Enthusiast  
-🌐 [LinkedIn] (http://www.linkedin.com/in/dolly-gupta-3b54b8229) 
 📧 **dollygupta362@gmail.com**  
+🌐 LinkedIn - http://www.linkedin.com/in/dolly-gupta-3b54b8229 
 
 ---
