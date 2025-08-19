@@ -60,15 +60,18 @@ By completing these tasks, I demonstrated skills in **Tableau dashboarding**, **
 
 ## 📁 Repository Structure
 
-| Folder / File | Description |
-|---------------|-------------|
-| `Certificate` | Certificate of completion |
-| `daikibo-telemetry-data.json` | JSON telemetry data used in Tableau |
-| `Task 1.twbx` | Tableau workbook with your analysis |
-| `Task 1.png` | Screenshot of the dashboard highlighting downtime |
-| `Task 2 Dataset.xlsx` | Original Excel file provided in the task |
-| `Task 2 Solution.xlsx` | Edited Excel file with Equality Class column added |
-| `README.md` | Main README explaining the project, tasks, and skills gained |
+
+| 📁 Folder / 📄 File             | Description                                  |
+|-------------------------------|----------------------------------------------|
+| 📄 `Deloitte Data Analytics Certificate.pdf` | Scanned certificate image            |
+| 📁 `Task 1/`           | Folder containing all files of Task 1                 |
+| ├── 📄 `daikibo-telemetry-data.json` | JSON telemetry data used in Tableau |
+| └── 📄 `Task 1.twbx` | Tableau workbook with your analysis |
+| └── 📄 `Task 1.png` | Screenshot of the dashboard highlighting downtime |
+| 📁 `Task 2/`          |  Folder containing all files of Task 2                |
+| ├── 📄 `Task 2 Dataset.xlsx` | Original Excel file provided in the task |
+| ├── 📄 `Task 2 Solution.xlsx` | Original Excel file provided in the task |
+| 📄 `README.md`                | This documentation file                      |
 
 
 ---
