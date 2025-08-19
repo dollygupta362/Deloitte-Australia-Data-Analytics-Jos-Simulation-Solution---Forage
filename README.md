@@ -70,7 +70,7 @@ By completing these tasks, I demonstrated skills in **Tableau dashboarding**, **
 | └── 📄 `Task 1.png` | Screenshot of the dashboard highlighting downtime |
 | 📁 `Task 2/`          |  Folder containing all files of Task 2                |
 | ├── 📄 `Task 2 Dataset.xlsx` | Original Excel file provided in the task |
-| ├── 📄 `Task 2 Solution.xlsx` | Original Excel file provided in the task |
+| ├── 📄 `Task 2 Solution.xlsx` | Solution of original Excel file provided in the task |
 | 📄 `README.md`                | This documentation file                      |
 
 
